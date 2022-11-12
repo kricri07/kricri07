@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kricri07
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Java
+- 📫 How to reach me send email to kricri0704@gmail.com
